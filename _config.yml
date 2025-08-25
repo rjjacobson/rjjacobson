@@ -1,0 +1,11 @@
+title: Ron Jacobson
+description: Notes, projects, and writing.
+theme: minima
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+minima:
+  skin: classic
+markdown: kramdown
